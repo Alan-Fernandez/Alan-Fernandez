@@ -21,7 +21,3 @@ class Skills extends SoftwareDeveloper {
   cloudServices = ['Cloudinary'];
 }
 ```
-----
-Credit: [Alan-Fernandez](https://github.com/Alan-Fernandez)
-
-Last Edited on: 12/05/2024
